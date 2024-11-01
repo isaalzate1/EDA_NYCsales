@@ -2,14 +2,8 @@
 
 Este proyecto se centra en el análisis exploratorio de datos (EDA) del conjunto de datos de ventas de propiedades en Nueva York. El objetivo es comprender las tendencias del mercado inmobiliario, identificar patrones significativos y proporcionar información valiosa para compradores, vendedores e inversores.
 
--Introducción
--Datos
--Metodología
--Hallazgos Clave
--Conclusiones
 
 ## Introducción
-
 El mercado inmobiliario de Nueva York es uno de los más dinámicos y complejos del mundo. Este análisis busca desglosar las ventas de propiedades para ofrecer una visión clara sobre cómo varían los precios, qué factores influyen en ellos y cómo ha cambiado el mercado a lo largo del tiempo.
 
 ## Datos
